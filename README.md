@@ -1,5 +1,5 @@
 # YouTube-Video-Downloader
-This Repository Contains A School Project Based on Concept Of Downloading YouTube Videos and any kind of Help or sugestions would be appreciated.
+This Repository Contains A College Project Based on Concept Of Downloading YouTube Videos and any kind of Help or sugestions would be appreciated.
 
 PRE-REQUISITES :-
 
