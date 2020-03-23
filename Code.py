@@ -83,7 +83,7 @@ def main():
     def fun1():
         a=str(ent.text())
         if not a:
-           QtWidgets.QMessageBox.warning(win,"PyQt5","Please Enter The Video Link!",QtWidgets.QMessageBox.Ok)
+           QtWidgets.QMessageBox.warning(win,"YouTube Video Downloader","Please Enter The Video Link!",QtWidgets.QMessageBox.Ok)
         else:
            vid_link.move(-1000,0)
            ent.move(-1000,0)
